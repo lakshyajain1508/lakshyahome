@@ -1,0 +1,44 @@
+.box1{
+    background-color: pink ;
+    border: solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+.box2{
+    background-color: green;
+    border: solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+.box3{
+    background-color: yellow;
+    border: solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+.box4{
+    background-color: red;
+    border: solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+.box5{
+    background-color: blue ;
+    border: solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+}
