@@ -1,0 +1,62 @@
+.header{
+    height: 80px;
+    width: 1200px;
+    border: solid 0px black;
+    margin: auto;
+}
+.logo{
+    float: left;
+    margin-left: 30px;
+    margin-top: 13px;
+}
+.menu{
+    list-style: none;
+    margin-left: 160px;
+
+}
+.ul_i{
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightyellow;
+    border: solid 1px black;
+    border-radius: 20px;
+    margin-left: 18px;
+    font-size: 20px;
+    margin-top: 15PX;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.logo_n{
+    float: left;
+    margin-left: 18px;
+    font-size: 28px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.center_head{
+    height: 600px;
+    width: 1200px;
+    border: solid 1px black;
+    margin: auto;
+}
+.left_container{
+    height: 600px;
+    width: 400px;
+    border: solid 1px black;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.right_container{
+    height: 600px;
+    width: 796px;
+    border: solid 1px black;
+    float: left;
+}
